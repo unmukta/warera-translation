@@ -1564,6 +1564,10 @@ msgstr "Jóváhagyva"
 msgid "Arcane Boots"
 msgstr "Titokzatos csizma"
 
+#: src/components/_economy/inventory/ConsumeItems.tsx:216
+msgid "Are you sure you want to consume pill?"
+msgstr ""
+
 #: src/components/_military/mu/MuMemberList.tsx:154
 msgid "Are you sure you want to demote this commander?"
 msgstr "Biztosan le akarod fokozni ezt a parancsnokot?"
@@ -1584,7 +1588,7 @@ msgstr "Biztosan el akarod hagyni a kongresszust?"
 msgid "Are you sure you want to leave the government?"
 msgstr "Biztosan el akarod hagyni a kormányt?"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:131
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:134
 msgid "Are you sure you want to place this bid?"
 msgstr "Biztosan le akarod adni ezt az ajánlatot?"
 
@@ -1700,6 +1704,10 @@ msgstr "Automatikus jóváhagyás"
 #: src/components/_economy/company/CompanyTags.tsx:89
 msgid "Auto-generates <0>Production Points</0> over time, without the need to work."
 msgstr "Automatikusan generál <0>Termelési Pontokat</0> az idő múlásával, munka nélkül."
+
+#: src/components/_economy/inventory/ConsumeItems.tsx:269
+msgid "Autobuy when empty"
+msgstr ""
 
 #: src/components/_economy/company/CompanyTags.tsx:87
 msgid "Automated engine"
@@ -1856,7 +1864,7 @@ msgstr "Jelöltté válás"
 msgid "Better than nothing, right?"
 msgstr "Jobb, mint a semmi, nem?"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:289
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:292
 msgid "Bid"
 msgstr "Licit"
 
@@ -2272,6 +2280,10 @@ msgstr "Kattints az országod beszélgetésére, hogy csevegj a többi állampol
 msgid "Click to apply and start earning money right away."
 msgstr "Kattints a jelentkezéshez, és kezdj el azonnal pénzt keresni."
 
+#: src/components/_economy/inventory/ConsumeItems.tsx:166
+msgid "Click to consume."
+msgstr ""
+
 #: src/components/_other/tour/tuto.frontConfig.tsx:100
 msgid "Click to reveal what's inside. You might get something valuable!"
 msgstr "Kattints a kinyitáshoz! Lehet, hogy valami értékeset kapsz!"
@@ -2477,6 +2489,10 @@ msgstr "Hódító"
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:69
 msgid "Consider giving it to your local moderator"
 msgstr "Fontold meg, hogy odaadod a helyi moderátorodnak"
+
+#: src/components/_economy/inventory/ConsumeItems.tsx:163
+msgid "Consume items"
+msgstr ""
 
 #: src/components/_user/user/skills.frontConfig.tsx:78
 msgid "Consumed when fighting in battles"
@@ -2731,7 +2747,7 @@ msgid "Damage ranking"
 msgstr "Sebzés ranglista"
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:160
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:161
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:164
 #: src/components/_military/war/WarComparison.tsx:90
 msgid "Damages"
 msgstr "Sebzés"
@@ -3429,7 +3445,7 @@ msgstr "Farmer nadrág"
 msgid "Favorites"
 msgstr "Kedvencek"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:231
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:234
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:108
 msgid "Fee"
 msgstr "Díj"
@@ -3447,7 +3463,7 @@ msgstr "Hűségbónusz"
 msgid "Fidelity bonus:"
 msgstr "Hűségbónusz:"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:152
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:155
 msgid "Fight for <0/> in <1/>"
 msgstr "Harcolj <0/> mellett <1/>-ben/ban"
 
@@ -4652,7 +4668,7 @@ msgstr "Katonai egységek"
 msgid "Military Units"
 msgstr "Katonai egységek"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:286
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:289
 msgid "Min reached"
 msgstr "Minimum elérve"
 
@@ -5483,7 +5499,7 @@ msgstr "Illeszd be a kampánycikked linkjét, vagy hagyd üresen."
 msgid "Payment successful! Thanks for supporting the game <3"
 msgstr "Sikeres fizetés! Köszönjük, hogy támogatod a játékot <3"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:179
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:182
 msgid "Payout"
 msgstr "Kifizetés"
 
@@ -5665,7 +5681,7 @@ msgstr "Adatvédelem"
 msgid "Private"
 msgstr "Közlegény"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:205
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:208
 msgid "Pro Only"
 msgstr "Csak Pro"
 
@@ -5850,7 +5866,7 @@ msgstr "Ranglisták"
 msgid "Ranks"
 msgstr "Rangok"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:168
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:171
 msgid "Rate"
 msgstr "Díj"
 
@@ -6277,7 +6293,7 @@ msgstr "Kör"
 
 #. placeholder {0}: auction.roundNumber
 #. placeholder {0}: contract.roundNumber
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:214
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:217
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:132
 msgid "Round {0}"
 msgstr "{0}. kör"
@@ -6593,7 +6609,7 @@ msgid "Shop"
 msgstr "Bolt"
 
 #. placeholder {0}: auction.bids.length
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:270
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:273
 msgid "Show all {0} bids"
 msgstr "Összes {0} ajánlat megjelenítése"
 
@@ -7061,7 +7077,7 @@ msgstr "Az univerzum tartozik neked valami nagyval"
 msgid "The use of bots, scripts, or any form of automation to gain an advantage over other players is strictly forbidden. This includes, but is not limited to, web scraping and creating scripts that bypass the game intended functionality or restrictions."
 msgstr "A botok, scriptek vagy bármilyen automatizálás használata más játékosokkal szembeni előny megszerzésére szigorúan tilos. Ez magában foglalja, de nem korlátozódik a web scraping-re és a játék szándékolt működését vagy korlátozásait megkerülő scriptek létrehozására."
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:132
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:135
 msgid "This action will submit your MU bid for this contract."
 msgstr "Ez a művelet elküldi a KE-d ajánlatát erre a szerződésre."
 
@@ -7121,6 +7137,10 @@ msgstr "Csak ez a menet"
 #: src/components/_user/user/FamilyGroup.tsx:64
 msgid "This user is not part of any family group"
 msgstr "Ez a felhasználó nem tagja egyetlen családi csoportnak sem"
+
+#: src/components/_economy/inventory/ConsumeItems.tsx:217
+msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
+msgstr ""
 
 #: src/components/_user/user/UserDropdown.tsx:336
 msgid "This will require the user to verify their mobile phone number."
@@ -8437,7 +8457,7 @@ msgstr "A katonai egységed neve"
 msgid "Your MU has <0/> reputation and cannot bid on mercenary contracts. Pay to buy back reputation (once per day)."
 msgstr "A KE-d <0/> hírnevű és nem licitálhat zsoldos szerződésekre. Fizess a hírnév visszavásárlásához (naponta egyszer)."
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:223
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:226
 msgid "Your MU must have enough money to cover the acceptance fee to bid. Payment is only deducted if you win, and refunded on contract completion."
 msgstr "A KE-dnek elegendő pénzzel kell rendelkeznie az elfogadási díj fedezéséhez a licitáláshoz. A kifizetés csak akkor kerül levonásra, ha nyersz, és visszatérítésre kerül a szerződés teljesítésekor."
 

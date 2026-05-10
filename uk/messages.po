@@ -1564,6 +1564,10 @@ msgstr "Схвалено"
 msgid "Arcane Boots"
 msgstr "Магічні чоботи"
 
+#: src/components/_economy/inventory/ConsumeItems.tsx:216
+msgid "Are you sure you want to consume pill?"
+msgstr ""
+
 #: src/components/_military/mu/MuMemberList.tsx:154
 msgid "Are you sure you want to demote this commander?"
 msgstr "Впевнені, що хочете розжалувати цього командира?"
@@ -1584,7 +1588,7 @@ msgstr "Ви впевнені, що хочете покинути парламе
 msgid "Are you sure you want to leave the government?"
 msgstr "Ви впевнені, що хочете покинути уряд?"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:131
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:134
 msgid "Are you sure you want to place this bid?"
 msgstr "Ви впевнені, що бажаєте зробити цю ставку?"
 
@@ -1700,6 +1704,10 @@ msgstr "Автоматичне схвалення"
 #: src/components/_economy/company/CompanyTags.tsx:89
 msgid "Auto-generates <0>Production Points</0> over time, without the need to work."
 msgstr "Автоматично створює <0>Бали виробництва</0> з часом, без потреби працювати."
+
+#: src/components/_economy/inventory/ConsumeItems.tsx:269
+msgid "Autobuy when empty"
+msgstr ""
 
 #: src/components/_economy/company/CompanyTags.tsx:87
 msgid "Automated engine"
@@ -1856,7 +1864,7 @@ msgstr "Стати кандидатом"
 msgid "Better than nothing, right?"
 msgstr "Краще ніж нічого, еге ж?"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:289
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:292
 msgid "Bid"
 msgstr "Ставка"
 
@@ -2272,6 +2280,10 @@ msgstr "Натисніть на чат своєї країни, щоб спіл�
 msgid "Click to apply and start earning money right away."
 msgstr "Натисніть, щоб подати заявку та одразу почати заробляти."
 
+#: src/components/_economy/inventory/ConsumeItems.tsx:166
+msgid "Click to consume."
+msgstr ""
+
 #: src/components/_other/tour/tuto.frontConfig.tsx:100
 msgid "Click to reveal what's inside. You might get something valuable!"
 msgstr "Натисніть, щоб дізнатися, що всередині. Можливо, вам пощастить!"
@@ -2477,6 +2489,10 @@ msgstr "Завойовник"
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:69
 msgid "Consider giving it to your local moderator"
 msgstr "Розгляньте можливість подарувати це локальному модератору"
+
+#: src/components/_economy/inventory/ConsumeItems.tsx:163
+msgid "Consume items"
+msgstr ""
 
 #: src/components/_user/user/skills.frontConfig.tsx:78
 msgid "Consumed when fighting in battles"
@@ -2731,7 +2747,7 @@ msgid "Damage ranking"
 msgstr "Рейтинг за завданою шкодою"
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:160
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:161
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:164
 #: src/components/_military/war/WarComparison.tsx:90
 msgid "Damages"
 msgstr "Завдана шкода"
@@ -3429,7 +3445,7 @@ msgstr "Фермерські штани"
 msgid "Favorites"
 msgstr "Обране"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:231
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:234
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:108
 msgid "Fee"
 msgstr "Завдаток"
@@ -3447,7 +3463,7 @@ msgstr "Бонус вірності"
 msgid "Fidelity bonus:"
 msgstr "Бонус вірності:"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:152
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:155
 msgid "Fight for <0/> in <1/>"
 msgstr "Битись за <0/> у <1/>"
 
@@ -4652,7 +4668,7 @@ msgstr "Військові підрозділи"
 msgid "Military Units"
 msgstr "Військові підрозділи"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:286
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:289
 msgid "Min reached"
 msgstr "Мінімум досягнуто"
 
@@ -5483,7 +5499,7 @@ msgstr "Вставте посилання на статтю з вашою про
 msgid "Payment successful! Thanks for supporting the game <3"
 msgstr "Успішна оплата! Дякую за підтримку гри <3"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:179
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:182
 msgid "Payout"
 msgstr "Виплата"
 
@@ -5665,7 +5681,7 @@ msgstr "Конфіденційність"
 msgid "Private"
 msgstr "Солдат"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:205
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:208
 msgid "Pro Only"
 msgstr "Лише профі"
 
@@ -5850,7 +5866,7 @@ msgstr "Рейтинги"
 msgid "Ranks"
 msgstr "Рейтинг"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:168
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:171
 msgid "Rate"
 msgstr "Ставка"
 
@@ -6277,7 +6293,7 @@ msgstr "Раунд"
 
 #. placeholder {0}: auction.roundNumber
 #. placeholder {0}: contract.roundNumber
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:214
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:217
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:132
 msgid "Round {0}"
 msgstr "Раунд {0}"
@@ -6593,7 +6609,7 @@ msgid "Shop"
 msgstr "Магазин"
 
 #. placeholder {0}: auction.bids.length
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:270
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:273
 msgid "Show all {0} bids"
 msgstr "Показати всі {0} ставок"
 
@@ -7061,7 +7077,7 @@ msgstr "Всесвіт має на вас великі плани"
 msgid "The use of bots, scripts, or any form of automation to gain an advantage over other players is strictly forbidden. This includes, but is not limited to, web scraping and creating scripts that bypass the game intended functionality or restrictions."
 msgstr ""
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:132
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:135
 msgid "This action will submit your MU bid for this contract."
 msgstr "Ця дія призведе до подання вашої ставки від ВП щодо цього контракту."
 
@@ -7121,6 +7137,10 @@ msgstr "Лише цей раунд"
 #: src/components/_user/user/FamilyGroup.tsx:64
 msgid "This user is not part of any family group"
 msgstr "Цей гравець не є членом жодної сімейної групи"
+
+#: src/components/_economy/inventory/ConsumeItems.tsx:217
+msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
+msgstr ""
 
 #: src/components/_user/user/UserDropdown.tsx:336
 msgid "This will require the user to verify their mobile phone number."
@@ -8437,7 +8457,7 @@ msgstr "Назва вашого підрозділу"
 msgid "Your MU has <0/> reputation and cannot bid on mercenary contracts. Pay to buy back reputation (once per day)."
 msgstr ""
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:223
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:226
 msgid "Your MU must have enough money to cover the acceptance fee to bid. Payment is only deducted if you win, and refunded on contract completion."
 msgstr "Щоб зробити ставку, ваш ВП повинен мати достатньо коштів для оплати завдатку. Оплата відбудеться лише якщо ви переможете в аукціоні, і буде повернута після виконання контракту."
 

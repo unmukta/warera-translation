@@ -1564,6 +1564,10 @@ msgstr "Prihvaćeno"
 msgid "Arcane Boots"
 msgstr "Tajanstvene Čizme"
 
+#: src/components/_economy/inventory/ConsumeItems.tsx:216
+msgid "Are you sure you want to consume pill?"
+msgstr ""
+
 #: src/components/_military/mu/MuMemberList.tsx:154
 msgid "Are you sure you want to demote this commander?"
 msgstr "Jeste li sigurni da želite ukloniti ovog zapovjednika?"
@@ -1584,7 +1588,7 @@ msgstr "Jeste li sigurni da želite napustiti kongres?"
 msgid "Are you sure you want to leave the government?"
 msgstr "Jeste li sigurni da želite napustiti vladu?"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:131
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:134
 msgid "Are you sure you want to place this bid?"
 msgstr "Jeste li sigurni da želite dati ovu ponudu?"
 
@@ -1700,6 +1704,10 @@ msgstr "Automatsko odobravanje"
 #: src/components/_economy/company/CompanyTags.tsx:89
 msgid "Auto-generates <0>Production Points</0> over time, without the need to work."
 msgstr "Automatski generira <0>Poene Proizvodnje</0> kroz vrijeme, bez potrebe za troškom energije."
+
+#: src/components/_economy/inventory/ConsumeItems.tsx:269
+msgid "Autobuy when empty"
+msgstr ""
 
 #: src/components/_economy/company/CompanyTags.tsx:87
 msgid "Automated engine"
@@ -1856,7 +1864,7 @@ msgstr "Postani kandidat"
 msgid "Better than nothing, right?"
 msgstr "Bolje išta nego ništa!"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:289
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:292
 msgid "Bid"
 msgstr "Ponudi"
 
@@ -2272,6 +2280,10 @@ msgstr "Klikni na državnu sobu za razgovor kako bi komunikacirao sa sugrađanim
 msgid "Click to apply and start earning money right away."
 msgstr "Klikni da se priјaviš i odmah počneš zarađivati novac."
 
+#: src/components/_economy/inventory/ConsumeItems.tsx:166
+msgid "Click to consume."
+msgstr ""
+
 #: src/components/_other/tour/tuto.frontConfig.tsx:100
 msgid "Click to reveal what's inside. You might get something valuable!"
 msgstr "Klikni da otkriјeš šta јe unutra. Možda dobiјeš nešto vrijedno!"
@@ -2477,6 +2489,10 @@ msgstr "Osvaјač"
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:69
 msgid "Consider giving it to your local moderator"
 msgstr "Uzmi u obzir da to daš svom lokalnom moderatoru.."
+
+#: src/components/_economy/inventory/ConsumeItems.tsx:163
+msgid "Consume items"
+msgstr ""
 
 #: src/components/_user/user/skills.frontConfig.tsx:78
 msgid "Consumed when fighting in battles"
@@ -2731,7 +2747,7 @@ msgid "Damage ranking"
 msgstr "Rang lista štete"
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:160
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:161
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:164
 #: src/components/_military/war/WarComparison.tsx:90
 msgid "Damages"
 msgstr "Šteta"
@@ -3429,7 +3445,7 @@ msgstr "Farmerske Hlače"
 msgid "Favorites"
 msgstr "Omiljeno"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:231
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:234
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:108
 msgid "Fee"
 msgstr "Naknada"
@@ -3447,7 +3463,7 @@ msgstr "Bonus Loјalnosti"
 msgid "Fidelity bonus:"
 msgstr "Bonus Lojalnosti:"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:152
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:155
 msgid "Fight for <0/> in <1/>"
 msgstr "Borba za <0/> u <1/>"
 
@@ -4652,7 +4668,7 @@ msgstr "Voјne јedinice"
 msgid "Military Units"
 msgstr "Voјne Јedinice"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:286
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:289
 msgid "Min reached"
 msgstr "Minimalno dostignuto"
 
@@ -5483,7 +5499,7 @@ msgstr "Zaljepite vezu do članka vaše kampanje ili ostavite prazno."
 msgid "Payment successful! Thanks for supporting the game <3"
 msgstr "Plaćanje uspješno! Hvala na podršci igre <3"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:179
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:182
 msgid "Payout"
 msgstr "Isplata"
 
@@ -5665,7 +5681,7 @@ msgstr "Privatnosti"
 msgid "Private"
 msgstr "Redov"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:205
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:208
 msgid "Pro Only"
 msgstr "Samo Pro"
 
@@ -5850,7 +5866,7 @@ msgstr "Rangiranja"
 msgid "Ranks"
 msgstr "Rangiranja"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:168
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:171
 msgid "Rate"
 msgstr "Stopa"
 
@@ -6277,7 +6293,7 @@ msgstr "Runda"
 
 #. placeholder {0}: auction.roundNumber
 #. placeholder {0}: contract.roundNumber
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:214
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:217
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:132
 msgid "Round {0}"
 msgstr "Runda {0}"
@@ -6593,7 +6609,7 @@ msgid "Shop"
 msgstr "Trgovina"
 
 #. placeholder {0}: auction.bids.length
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:270
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:273
 msgid "Show all {0} bids"
 msgstr "Prikaži sve {0} ponude"
 
@@ -7061,7 +7077,7 @@ msgstr "Univerzum ti duguјe nešto veliko.."
 msgid "The use of bots, scripts, or any form of automation to gain an advantage over other players is strictly forbidden. This includes, but is not limited to, web scraping and creating scripts that bypass the game intended functionality or restrictions."
 msgstr "Korištenje botova, skripti ili bilo koje forme automatizacije za dobivanje prednosti nad drugim igračima je striktno zabranjeno. Ovo uključuje, ali nije ograničeno na web-scraping i stvaranje skripti koje zaobilaze zamišljene restrikcije ili funkcije igre."
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:132
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:135
 msgid "This action will submit your MU bid for this contract."
 msgstr "Ovom radnjom ćete poslati svoju VJ ponudu za ovaj ugovor."
 
@@ -7121,6 +7137,10 @@ msgstr "Samo ovu rundu"
 #: src/components/_user/user/FamilyGroup.tsx:64
 msgid "This user is not part of any family group"
 msgstr "Ovaј korisnik niјe dio niјedne obiteljske grupe"
+
+#: src/components/_economy/inventory/ConsumeItems.tsx:217
+msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
+msgstr ""
 
 #: src/components/_user/user/UserDropdown.tsx:336
 msgid "This will require the user to verify their mobile phone number."
@@ -8437,7 +8457,7 @@ msgstr "Ime tvoјe voјne јedinice"
 msgid "Your MU has <0/> reputation and cannot bid on mercenary contracts. Pay to buy back reputation (once per day)."
 msgstr "Tvoja vojna jedinica ima <0/> reputacije i nemože licitirati za plaćeničke ugovore. Plati kako bi povratio reputaciju (jednom dnevno)."
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:223
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:226
 msgid "Your MU must have enough money to cover the acceptance fee to bid. Payment is only deducted if you win, and refunded on contract completion."
 msgstr "Vaša VJ mora imati dovoljno sredstava da pokrije naknadu za prihvaćanje ponude. Isplata se odbija ako pobijedite i vraća se po završetku ugovora."
 

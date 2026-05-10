@@ -1562,6 +1562,10 @@ msgstr "Aprobat"
 msgid "Arcane Boots"
 msgstr ""
 
+#: src/components/_economy/inventory/ConsumeItems.tsx:216
+msgid "Are you sure you want to consume pill?"
+msgstr ""
+
 #: src/components/_military/mu/MuMemberList.tsx:154
 msgid "Are you sure you want to demote this commander?"
 msgstr "Ești sigur că vrei să demiți comandantul?"
@@ -1582,7 +1586,7 @@ msgstr "Ești sigur că vrei să demisionezi din parlament?"
 msgid "Are you sure you want to leave the government?"
 msgstr "Ești sigur că vrei să demisionezi din guvern?"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:131
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:134
 msgid "Are you sure you want to place this bid?"
 msgstr "Ești sigur că plasezi oferta?"
 
@@ -1698,6 +1702,10 @@ msgstr "Aprobare automată"
 #: src/components/_economy/company/CompanyTags.tsx:89
 msgid "Auto-generates <0>Production Points</0> over time, without the need to work."
 msgstr "Generează automat <0>Puncte de Producție</0> de-a lungul timpului, fără să lucrezi."
+
+#: src/components/_economy/inventory/ConsumeItems.tsx:269
+msgid "Autobuy when empty"
+msgstr ""
 
 #: src/components/_economy/company/CompanyTags.tsx:87
 msgid "Automated engine"
@@ -1854,7 +1862,7 @@ msgstr "Deveniți candidat"
 msgid "Better than nothing, right?"
 msgstr "Mai bine decât nimic, nu?"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:289
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:292
 msgid "Bid"
 msgstr "Ofertă"
 
@@ -2270,6 +2278,10 @@ msgstr "Apasă pe conversația țării tale pentru a discuta cu alți cetățeni
 msgid "Click to apply and start earning money right away."
 msgstr "Apasă să aplici și începe să câștigi bani."
 
+#: src/components/_economy/inventory/ConsumeItems.tsx:166
+msgid "Click to consume."
+msgstr ""
+
 #: src/components/_other/tour/tuto.frontConfig.tsx:100
 msgid "Click to reveal what's inside. You might get something valuable!"
 msgstr "Apasă să vezi ce e înăuntru! Poate e ceva valoros!"
@@ -2475,6 +2487,10 @@ msgstr "Cuceritor"
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:69
 msgid "Consider giving it to your local moderator"
 msgstr "Consideră să-l dăruiești moderatorului tău local"
+
+#: src/components/_economy/inventory/ConsumeItems.tsx:163
+msgid "Consume items"
+msgstr ""
 
 #: src/components/_user/user/skills.frontConfig.tsx:78
 msgid "Consumed when fighting in battles"
@@ -2729,7 +2745,7 @@ msgid "Damage ranking"
 msgstr "Clasament Daune"
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:160
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:161
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:164
 #: src/components/_military/war/WarComparison.tsx:90
 msgid "Damages"
 msgstr "Daune"
@@ -3427,7 +3443,7 @@ msgstr "Pantaloni de fermier"
 msgid "Favorites"
 msgstr "Favorite"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:231
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:234
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:108
 msgid "Fee"
 msgstr "Taxă"
@@ -3445,7 +3461,7 @@ msgstr "Bonus de fidelitate"
 msgid "Fidelity bonus:"
 msgstr "Bonus fidelitate"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:152
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:155
 msgid "Fight for <0/> in <1/>"
 msgstr "Luptă pentru <0/> în <1/>"
 
@@ -4650,7 +4666,7 @@ msgstr "Unități Militare"
 msgid "Military Units"
 msgstr "Unități Militare"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:286
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:289
 msgid "Min reached"
 msgstr "Minimum atins"
 
@@ -5481,7 +5497,7 @@ msgstr "Lipiți un link către articolul de campanie, sau lăsați gol."
 msgid "Payment successful! Thanks for supporting the game <3"
 msgstr "Plată reușită! Mulțumim că susții jocul <3"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:179
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:182
 msgid "Payout"
 msgstr "Plată"
 
@@ -5663,7 +5679,7 @@ msgstr "Confidențialitate"
 msgid "Private"
 msgstr "Soldat"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:205
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:208
 msgid "Pro Only"
 msgstr "Doar profesioniști"
 
@@ -5848,7 +5864,7 @@ msgstr "Clasamente"
 msgid "Ranks"
 msgstr "Clasament"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:168
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:171
 msgid "Rate"
 msgstr "Cost"
 
@@ -6275,7 +6291,7 @@ msgstr "Runda"
 
 #. placeholder {0}: auction.roundNumber
 #. placeholder {0}: contract.roundNumber
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:214
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:217
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:132
 msgid "Round {0}"
 msgstr "Runda {0}"
@@ -6591,7 +6607,7 @@ msgid "Shop"
 msgstr "Magazin"
 
 #. placeholder {0}: auction.bids.length
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:270
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:273
 msgid "Show all {0} bids"
 msgstr "Arată toate {0} oferte"
 
@@ -7059,7 +7075,7 @@ msgstr "Universul îți datorează ceva mai bun"
 msgid "The use of bots, scripts, or any form of automation to gain an advantage over other players is strictly forbidden. This includes, but is not limited to, web scraping and creating scripts that bypass the game intended functionality or restrictions."
 msgstr ""
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:132
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:135
 msgid "This action will submit your MU bid for this contract."
 msgstr "Această acțiune trimite oferta UM tale pentru acest contract."
 
@@ -7119,6 +7135,10 @@ msgstr "Doar runda curentă"
 #: src/components/_user/user/FamilyGroup.tsx:64
 msgid "This user is not part of any family group"
 msgstr "Acest utilizator nu face parte din niciun grup de familie"
+
+#: src/components/_economy/inventory/ConsumeItems.tsx:217
+msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
+msgstr ""
 
 #: src/components/_user/user/UserDropdown.tsx:336
 msgid "This will require the user to verify their mobile phone number."
@@ -8435,7 +8455,7 @@ msgstr "Numele unității militare"
 msgid "Your MU has <0/> reputation and cannot bid on mercenary contracts. Pay to buy back reputation (once per day)."
 msgstr ""
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:223
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:226
 msgid "Your MU must have enough money to cover the acceptance fee to bid. Payment is only deducted if you win, and refunded on contract completion."
 msgstr "UM trebuie să aibe suficienți bani pentru a plăti taxa de acceptare pentru a face o ofertă."
 

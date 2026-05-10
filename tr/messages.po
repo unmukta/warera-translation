@@ -1564,6 +1564,10 @@ msgstr "Onaylandı"
 msgid "Arcane Boots"
 msgstr "Esrarengiz Çizmeler"
 
+#: src/components/_economy/inventory/ConsumeItems.tsx:216
+msgid "Are you sure you want to consume pill?"
+msgstr ""
+
 #: src/components/_military/mu/MuMemberList.tsx:154
 msgid "Are you sure you want to demote this commander?"
 msgstr "Bu komutanı rütbe düşürmek istediğinizden emin misiniz?"
@@ -1584,7 +1588,7 @@ msgstr "Meclisten ayrılmak istediğinizden emin misiniz?"
 msgid "Are you sure you want to leave the government?"
 msgstr "Hükümetten ayrılmak istediğinizden emin misiniz?"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:131
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:134
 msgid "Are you sure you want to place this bid?"
 msgstr ""
 
@@ -1700,6 +1704,10 @@ msgstr "Otomatik onay"
 #: src/components/_economy/company/CompanyTags.tsx:89
 msgid "Auto-generates <0>Production Points</0> over time, without the need to work."
 msgstr "Çalışmaya gerek kalmadan zamanla otomatik olarak <0>Üretim Puanı</0> oluşturur."
+
+#: src/components/_economy/inventory/ConsumeItems.tsx:269
+msgid "Autobuy when empty"
+msgstr ""
 
 #: src/components/_economy/company/CompanyTags.tsx:87
 msgid "Automated engine"
@@ -1856,7 +1864,7 @@ msgstr "Aday Ol"
 msgid "Better than nothing, right?"
 msgstr "Hiç yoktan iyidir, değil mi?"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:289
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:292
 msgid "Bid"
 msgstr ""
 
@@ -2272,6 +2280,10 @@ msgstr "Memleketlilerinle sohbet etmek için ülkenin sohbet bölümüne tıkla.
 msgid "Click to apply and start earning money right away."
 msgstr "Başvurmak ve hemen para kazanmaya başlamak için tıkla."
 
+#: src/components/_economy/inventory/ConsumeItems.tsx:166
+msgid "Click to consume."
+msgstr ""
+
 #: src/components/_other/tour/tuto.frontConfig.tsx:100
 msgid "Click to reveal what's inside. You might get something valuable!"
 msgstr "İçinde ne olduğunu görmek için tıkla. Belki değerli bir şeyler kazandırabilir!"
@@ -2477,6 +2489,10 @@ msgstr "Fatih"
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:69
 msgid "Consider giving it to your local moderator"
 msgstr "Yerel moderatörüne vermeyi düşün."
+
+#: src/components/_economy/inventory/ConsumeItems.tsx:163
+msgid "Consume items"
+msgstr ""
 
 #: src/components/_user/user/skills.frontConfig.tsx:78
 msgid "Consumed when fighting in battles"
@@ -2731,7 +2747,7 @@ msgid "Damage ranking"
 msgstr "Hasar sıralaması"
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:160
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:161
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:164
 #: src/components/_military/war/WarComparison.tsx:90
 msgid "Damages"
 msgstr "Hasar"
@@ -3429,7 +3445,7 @@ msgstr "Çiftçi Pantolonu"
 msgid "Favorites"
 msgstr "Favoriler"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:231
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:234
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:108
 msgid "Fee"
 msgstr ""
@@ -3447,7 +3463,7 @@ msgstr "Sadakat bonusu"
 msgid "Fidelity bonus:"
 msgstr "Sadakat bonusu:"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:152
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:155
 msgid "Fight for <0/> in <1/>"
 msgstr ""
 
@@ -4652,7 +4668,7 @@ msgstr "Askeri birlikler"
 msgid "Military Units"
 msgstr "Askeri Birlikler"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:286
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:289
 msgid "Min reached"
 msgstr ""
 
@@ -5483,7 +5499,7 @@ msgstr "Kampanya makalenize bir link yapıştırın veya boş bırakın."
 msgid "Payment successful! Thanks for supporting the game <3"
 msgstr "Ödeme başarılı! Oyunu desteklediğin için teşekkürler <3"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:179
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:182
 msgid "Payout"
 msgstr ""
 
@@ -5665,7 +5681,7 @@ msgstr "Gizlilik"
 msgid "Private"
 msgstr "Er"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:205
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:208
 msgid "Pro Only"
 msgstr ""
 
@@ -5850,7 +5866,7 @@ msgstr "Sıralamalar"
 msgid "Ranks"
 msgstr "Sıralamalar"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:168
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:171
 msgid "Rate"
 msgstr ""
 
@@ -6277,7 +6293,7 @@ msgstr "Tur"
 
 #. placeholder {0}: auction.roundNumber
 #. placeholder {0}: contract.roundNumber
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:214
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:217
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:132
 msgid "Round {0}"
 msgstr "Tur {0}"
@@ -6593,7 +6609,7 @@ msgid "Shop"
 msgstr "Mağaza"
 
 #. placeholder {0}: auction.bids.length
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:270
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:273
 msgid "Show all {0} bids"
 msgstr ""
 
@@ -7061,7 +7077,7 @@ msgstr "Evren sana büyük bir şey borçlu"
 msgid "The use of bots, scripts, or any form of automation to gain an advantage over other players is strictly forbidden. This includes, but is not limited to, web scraping and creating scripts that bypass the game intended functionality or restrictions."
 msgstr ""
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:132
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:135
 msgid "This action will submit your MU bid for this contract."
 msgstr ""
 
@@ -7121,6 +7137,10 @@ msgstr ""
 #: src/components/_user/user/FamilyGroup.tsx:64
 msgid "This user is not part of any family group"
 msgstr "Bu kullanıcı herhangi bir aile grubunun parçası değil"
+
+#: src/components/_economy/inventory/ConsumeItems.tsx:217
+msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
+msgstr ""
 
 #: src/components/_user/user/UserDropdown.tsx:336
 msgid "This will require the user to verify their mobile phone number."
@@ -8437,7 +8457,7 @@ msgstr "Askeri birlik ismin"
 msgid "Your MU has <0/> reputation and cannot bid on mercenary contracts. Pay to buy back reputation (once per day)."
 msgstr ""
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:223
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:226
 msgid "Your MU must have enough money to cover the acceptance fee to bid. Payment is only deducted if you win, and refunded on contract completion."
 msgstr ""
 
