@@ -2644,6 +2644,10 @@ msgstr "Ülke"
 msgid "Country development income bonus"
 msgstr "Ülke kalkınma gelir bonusu"
 
+#: src/components/_economy/transaction/TransactionList.tsx:90
+msgid "Country Money Transfer"
+msgstr ""
+
 #: src/components/_military/battle/BattleSideOrdersModal.tsx:40
 msgid "Country Orders"
 msgstr "Ülke Emirleri"
@@ -3523,7 +3527,7 @@ msgstr "Savaş!"
 msgid "Fighter Jet"
 msgstr "Savaş Uçağı"
 
-#: src/components/_economy/transaction/TransactionList.tsx:104
+#: src/components/_economy/transaction/TransactionList.tsx:109
 msgid "Filter by transaction type"
 msgstr "İşlem türüne göre filtrele"
 
@@ -5224,7 +5228,7 @@ msgstr "Baş düşman yok"
 msgid "No trading orders"
 msgstr "Alım satım emri yok"
 
-#: src/components/_economy/transaction/TransactionList.tsx:114
+#: src/components/_economy/transaction/TransactionList.tsx:119
 msgid "No transactions found"
 msgstr "İşlem bulunamadı"
 

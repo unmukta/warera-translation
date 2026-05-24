@@ -2644,6 +2644,10 @@ msgstr "Земља"
 msgid "Country development income bonus"
 msgstr "Бонус прихода од развоја земље"
 
+#: src/components/_economy/transaction/TransactionList.tsx:90
+msgid "Country Money Transfer"
+msgstr ""
+
 #: src/components/_military/battle/BattleSideOrdersModal.tsx:40
 msgid "Country Orders"
 msgstr "Државна наређења"
@@ -3523,7 +3527,7 @@ msgstr "Бори се!"
 msgid "Fighter Jet"
 msgstr "Борбени авион"
 
-#: src/components/_economy/transaction/TransactionList.tsx:104
+#: src/components/_economy/transaction/TransactionList.tsx:109
 msgid "Filter by transaction type"
 msgstr "Филтрирај по типу трансакције"
 
@@ -5224,7 +5228,7 @@ msgstr "Нема заклетог непријатеља"
 msgid "No trading orders"
 msgstr "Нема налога за трговину"
 
-#: src/components/_economy/transaction/TransactionList.tsx:114
+#: src/components/_economy/transaction/TransactionList.tsx:119
 msgid "No transactions found"
 msgstr "Трансакције нису пронађене"
 

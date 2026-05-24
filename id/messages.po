@@ -2644,6 +2644,10 @@ msgstr "Negara"
 msgid "Country development income bonus"
 msgstr "Bonus pendapatan pembangunan negara"
 
+#: src/components/_economy/transaction/TransactionList.tsx:90
+msgid "Country Money Transfer"
+msgstr ""
+
 #: src/components/_military/battle/BattleSideOrdersModal.tsx:40
 msgid "Country Orders"
 msgstr "Perintah negara"
@@ -3523,7 +3527,7 @@ msgstr "Bertarung!"
 msgid "Fighter Jet"
 msgstr "Jet tempur"
 
-#: src/components/_economy/transaction/TransactionList.tsx:104
+#: src/components/_economy/transaction/TransactionList.tsx:109
 msgid "Filter by transaction type"
 msgstr "Filter berdasarkan jenis transaksi"
 
@@ -5224,7 +5228,7 @@ msgstr "Tidak ada musuh bebuyutan"
 msgid "No trading orders"
 msgstr "Tidak ada order dagang"
 
-#: src/components/_economy/transaction/TransactionList.tsx:114
+#: src/components/_economy/transaction/TransactionList.tsx:119
 msgid "No transactions found"
 msgstr "Tidak ada transaksi"
 

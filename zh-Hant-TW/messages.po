@@ -2644,6 +2644,10 @@ msgstr "國家"
 msgid "Country development income bonus"
 msgstr "國家發展度收入加成"
 
+#: src/components/_economy/transaction/TransactionList.tsx:90
+msgid "Country Money Transfer"
+msgstr ""
+
 #: src/components/_military/battle/BattleSideOrdersModal.tsx:40
 msgid "Country Orders"
 msgstr ""
@@ -3523,7 +3527,7 @@ msgstr "出擊！"
 msgid "Fighter Jet"
 msgstr "戰鬥機"
 
-#: src/components/_economy/transaction/TransactionList.tsx:104
+#: src/components/_economy/transaction/TransactionList.tsx:109
 msgid "Filter by transaction type"
 msgstr "依交易種類篩選"
 
@@ -5224,7 +5228,7 @@ msgstr "沒有宿敵"
 msgid "No trading orders"
 msgstr "沒有交易訂單"
 
-#: src/components/_economy/transaction/TransactionList.tsx:114
+#: src/components/_economy/transaction/TransactionList.tsx:119
 msgid "No transactions found"
 msgstr "找不到交易紀錄"
 

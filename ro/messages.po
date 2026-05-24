@@ -2642,6 +2642,10 @@ msgstr "Țară"
 msgid "Country development income bonus"
 msgstr "Venit bonus din dezvoltare pe țară"
 
+#: src/components/_economy/transaction/TransactionList.tsx:90
+msgid "Country Money Transfer"
+msgstr ""
+
 #: src/components/_military/battle/BattleSideOrdersModal.tsx:40
 msgid "Country Orders"
 msgstr "Ordine țară"
@@ -3521,7 +3525,7 @@ msgstr "Luptă!"
 msgid "Fighter Jet"
 msgstr "Jet militar"
 
-#: src/components/_economy/transaction/TransactionList.tsx:104
+#: src/components/_economy/transaction/TransactionList.tsx:109
 msgid "Filter by transaction type"
 msgstr "Filtează după tipul tranzacției"
 
@@ -5222,7 +5226,7 @@ msgstr "Niciun inamic principal"
 msgid "No trading orders"
 msgstr "Fără comenzi de tranzacționare"
 
-#: src/components/_economy/transaction/TransactionList.tsx:114
+#: src/components/_economy/transaction/TransactionList.tsx:119
 msgid "No transactions found"
 msgstr "Fără tranzacții"
 

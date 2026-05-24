@@ -2644,6 +2644,10 @@ msgstr "País"
 msgid "Country development income bonus"
 msgstr "Bono de ingresos por desarrollo del país"
 
+#: src/components/_economy/transaction/TransactionList.tsx:90
+msgid "Country Money Transfer"
+msgstr ""
+
 #: src/components/_military/battle/BattleSideOrdersModal.tsx:40
 msgid "Country Orders"
 msgstr "Órdenes del país"
@@ -3523,7 +3527,7 @@ msgstr "¡Lucha!"
 msgid "Fighter Jet"
 msgstr "Avión de Combate"
 
-#: src/components/_economy/transaction/TransactionList.tsx:104
+#: src/components/_economy/transaction/TransactionList.tsx:109
 msgid "Filter by transaction type"
 msgstr "Filtrar por tipo de transacción"
 
@@ -5224,7 +5228,7 @@ msgstr "Sin enemigo principal"
 msgid "No trading orders"
 msgstr "Sin órdenes de intercambio"
 
-#: src/components/_economy/transaction/TransactionList.tsx:114
+#: src/components/_economy/transaction/TransactionList.tsx:119
 msgid "No transactions found"
 msgstr "No se encontraron transacciones"
 
