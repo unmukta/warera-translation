@@ -1281,8 +1281,7 @@ msgstr ""
 #: src/components/_user/user/UserHeader.tsx:167
 #: src/pages/country/[countryId]/account.tsx:43
 #: src/pages/country/[countryId]/index.tsx:341
-#: src/pages/user/[userId]/account.tsx:32
-#: src/pages/user/[userId]/index.tsx:150
+#: src/pages/user/[userId]/account.tsx:32 src/pages/user/[userId]/index.tsx:150
 msgid "Account"
 msgstr "کھاتا"
 
@@ -1297,8 +1296,7 @@ msgstr ""
 #: src/components/_military/battle/BattlesHeader.tsx:26
 #: src/components/_military/mercenaryContract/MercenaryAuctionList.tsx:134
 #: src/components/_military/mercenaryContract/MercenaryContractList.tsx:85
-#: src/pages/events/index.tsx:94
-#: src/utils/translations.tsx:258
+#: src/pages/events/index.tsx:94 src/utils/translations.tsx:258
 msgid "Active"
 msgstr "فعال"
 
@@ -1481,8 +1479,7 @@ msgstr "تقریبآ تیار۔۔۔"
 msgid "Alpha Tester"
 msgstr ""
 
-#: src/components/_user/UserEquipments.tsx:130
-#: src/utils/translations.tsx:35
+#: src/components/_user/UserEquipments.tsx:130 src/utils/translations.tsx:35
 msgid "Ammo"
 msgstr "گولہ بارود"
 
@@ -1633,7 +1630,7 @@ msgstr ""
 #: src/components/_user/user/skills.frontConfig.tsx:71
 #: src/components/_user/user/skills.frontConfig.tsx:72
 msgid "Armor"
-msgstr ""
+msgstr "زرہ بکتر"
 
 #: src/components/_political/law/LawFormModal.tsx:217
 msgid "Article ID"
@@ -1673,7 +1670,7 @@ msgstr ""
 #: src/components/_user/user/skills.frontConfig.tsx:44
 #: src/components/_user/user/skills.frontConfig.tsx:45
 msgid "Attack"
-msgstr ""
+msgstr "حملہ"
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:195
 #: src/components/_military/war/WarComparison.tsx:41
@@ -1700,7 +1697,7 @@ msgstr ""
 #: src/components/_military/battle/BattlesHeader.tsx:38
 #: src/components/_military/battle/BattleSideContractsModal.tsx:37
 msgid "Auctions"
-msgstr ""
+msgstr "نیلام"
 
 #: src/components/_user/auth/ConnectFromModal.tsx:141
 msgid "Authentication failed. Please try again."
@@ -1852,10 +1849,9 @@ msgstr ""
 #: src/components/_layout/LayoutMenu.tsx:154
 #: src/components/_military/battle/BattlesHeader.tsx:21
 #: src/components/_military/war/WarHeader.tsx:84
-#: src/pages/region/[regionId]/index.tsx:132
-#: src/pages/war/[warId]/index.tsx:75
+#: src/pages/region/[regionId]/index.tsx:132 src/pages/war/[warId]/index.tsx:75
 msgid "Battles"
-msgstr ""
+msgstr "جنگیں"
 
 #: src/components/_layout/LayoutOptions.tsx:118
 msgid "Battles on layout"
@@ -1920,8 +1916,7 @@ msgstr ""
 msgid "Boost your production!"
 msgstr ""
 
-#: src/components/_user/UserEquipments.tsx:200
-#: src/utils/translations.tsx:192
+#: src/components/_user/UserEquipments.tsx:200 src/utils/translations.tsx:192
 msgid "Boots"
 msgstr ""
 
@@ -2208,8 +2203,7 @@ msgstr ""
 msgid "Check your loot!"
 msgstr "اپنی لوٹ دیکھیں!"
 
-#: src/components/_user/UserEquipments.tsx:166
-#: src/utils/translations.tsx:183
+#: src/components/_user/UserEquipments.tsx:166 src/utils/translations.tsx:183
 msgid "Chest"
 msgstr ""
 
@@ -2376,10 +2370,9 @@ msgstr ""
 #: src/components/_layout/LayoutMenu.tsx:184
 #: src/components/_user/user/MyAvatar.tsx:48
 #: src/components/_user/user/UserHeader.tsx:206
-#: src/components/_user/user/WealthPanel.tsx:42
-#: src/pages/companies.tsx:96
+#: src/components/_user/user/WealthPanel.tsx:42 src/pages/companies.tsx:96
 msgid "Companies"
-msgstr ""
+msgstr "کمپنیاں"
 
 #: src/components/_user/user/skills.frontConfig.tsx:110
 #: src/components/_user/user/skills.frontConfig.tsx:111
@@ -2392,15 +2385,15 @@ msgstr ""
 
 #: src/components/_economy/company/CompanyDropdown.tsx:89
 msgid "Company destroyed!"
-msgstr ""
+msgstr "کمپنی تباہ ہو گئی!"
 
 #: src/components/_economy/company/CompanyTags.tsx:62
 msgid "Company disabled"
-msgstr ""
+msgstr "کمپنی مطعل"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:116
 msgid "Company disabled!"
-msgstr ""
+msgstr "کمپنی مطعل!"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:115
 msgid "Company enabled!"
@@ -2573,7 +2566,7 @@ msgstr ""
 #: src/components/_military/battle/LootSummaryCard.tsx:95
 #: src/components/_political/country/CountryHeader.tsx:134
 msgid "Contracts"
-msgstr ""
+msgstr "معاہدے"
 
 #: src/components/_military/battle/BattleSideContractsModal.tsx:29
 msgid "Contracts & Auctions"
@@ -2957,8 +2950,7 @@ msgstr ""
 msgid "Delete contract"
 msgstr ""
 
-#: src/pages/index.tsx:146
-#: src/pages/rules.tsx:40
+#: src/pages/index.tsx:146 src/pages/rules.tsx:40
 msgid "Delete your account"
 msgstr ""
 
@@ -3176,7 +3168,7 @@ msgstr ""
 
 #: src/components/_user/user/skills.frontConfig.tsx:216
 msgid "Economic skills"
-msgstr ""
+msgstr "معاشی مہارتیں"
 
 #: src/components/_user/notification/notificationPrefs.categories.ts:154
 msgid "Economy & Companies"
@@ -3276,13 +3268,13 @@ msgstr ""
 #: src/components/_military/battle/ActiveBattlesList.tsx:105
 #: src/components/_military/battle/ActiveBattlesList.tsx:160
 msgid "Enemies"
-msgstr ""
+msgstr "دشمن"
 
 #: src/components/_economy/workOffer/WorkOfferList.tsx:145
 #: src/components/_user/user/skills.frontConfig.tsx:90
 #: src/components/_user/user/skills.frontConfig.tsx:91
 msgid "Energy"
-msgstr ""
+msgstr "توانائی"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:81
 msgid "Ensign"
@@ -3300,12 +3292,11 @@ msgstr ""
 #: src/components/_user/user/skills.frontConfig.tsx:179
 #: src/components/_user/user/skills.frontConfig.tsx:180
 msgid "Entrepreneurship"
-msgstr ""
+msgstr "کارجوئی"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
 #: src/components/_layout/LayoutOptions.tsx:172
-#: src/components/_user/user/WealthPanel.tsx:56
-#: src/pages/market/index.tsx:71
+#: src/components/_user/user/WealthPanel.tsx:56 src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
 #: src/pages/user/[userId]/inventory.tsx:58
 msgid "Equipment"
@@ -3488,7 +3479,7 @@ msgstr ""
 #: src/components/_military/battle/ActiveBattlesList.tsx:87
 #: src/components/_military/battle/ActiveBattlesList.tsx:167
 msgid "Favorites"
-msgstr ""
+msgstr "پسندیدے"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:234
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:108
@@ -3565,8 +3556,7 @@ msgstr ""
 msgid "Finance resistance in <0/>"
 msgstr ""
 
-#: src/pages/companies.tsx:59
-#: src/pages/user/[userId]/companies.tsx:73
+#: src/pages/companies.tsx:59 src/pages/user/[userId]/companies.tsx:73
 msgid "Find a job"
 msgstr ""
 
@@ -3758,8 +3748,7 @@ msgstr ""
 msgid "Globe (experimental)"
 msgstr ""
 
-#: src/components/_user/UserEquipments.tsx:217
-#: src/utils/translations.tsx:201
+#: src/components/_user/UserEquipments.tsx:217 src/utils/translations.tsx:201
 msgid "Gloves"
 msgstr ""
 
@@ -3916,8 +3905,7 @@ msgstr ""
 msgid "Heavy Ammo"
 msgstr ""
 
-#: src/components/_user/UserEquipments.tsx:151
-#: src/utils/translations.tsx:174
+#: src/components/_user/UserEquipments.tsx:151 src/utils/translations.tsx:174
 msgid "Helmet"
 msgstr ""
 
@@ -3943,7 +3931,7 @@ msgstr ""
 
 #: src/components/_military/battle/BattlesHeader.tsx:32
 msgid "History"
-msgstr ""
+msgstr "تاریخ"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:90
 msgid "Hit"
@@ -3971,7 +3959,7 @@ msgstr ""
 #: src/components/_user/user/skills.frontConfig.tsx:117
 #: src/components/_user/user/skills.frontConfig.tsx:118
 msgid "Hunger"
-msgstr ""
+msgstr "بھوک"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:29
 msgid "I can feel it, the next one is a mythic!"
@@ -4030,12 +4018,12 @@ msgstr ""
 
 #: src/components/_political/party/party.frontConfig.tsx:234
 msgid "Imperialism vs Republicanism"
-msgstr ""
+msgstr "سامراجیت بمقابلہ جمہوریت پسندی"
 
 #: src/components/_political/party/party.frontConfig.tsx:237
 #: src/components/_political/party/party.frontConfig.tsx:269
 msgid "Imperialist"
-msgstr ""
+msgstr "سامراج پسند"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:52
 msgid "Impressive"
@@ -4043,11 +4031,11 @@ msgstr ""
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:174
 msgid "Inactive"
-msgstr ""
+msgstr "غیر فعال"
 
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:100
 msgid "Income"
-msgstr ""
+msgstr "امدنی"
 
 #: src/pages/country/[countryId]/index.tsx:506
 msgid "income from <0>Development</0> in <1/>."
@@ -4070,17 +4058,17 @@ msgstr ""
 #: src/components/_political/country/CountryTaxes.tsx:21
 #: src/components/_political/law/LawFormModal.tsx:228
 msgid "Income tax"
-msgstr ""
+msgstr "محصولِ آمدنی"
 
 #: src/components/_economy/company/CompanyTags.tsx:49
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:167
 msgid "Income Tax"
-msgstr ""
+msgstr "محصولِ آمدنی"
 
 #: src/components/_political/unrest/UnrestPanel.tsx:143
 #: src/components/_political/unrest/UnrestPanel.tsx:179
 msgid "Increase"
-msgstr ""
+msgstr "بڑھائیں"
 
 #: src/components/_political/unrest/UnrestPanel.tsx:109
 msgid "Increase unrest"
@@ -4088,12 +4076,12 @@ msgstr ""
 
 #: src/components/_political/party/party.frontConfig.tsx:316
 msgid "Industrialism vs Agrarianism"
-msgstr ""
+msgstr "صنعتیت بمقابلہ کسان پسندی"
 
 #: src/components/_political/party/party.frontConfig.tsx:319
 #: src/components/_political/party/party.frontConfig.tsx:347
 msgid "Industrialist"
-msgstr ""
+msgstr "صنعت کار"
 
 #: src/components/_political/government/Government.tsx:181
 msgid "Initial development"
@@ -4109,10 +4097,8 @@ msgstr ""
 
 #: src/components/_layout/LayoutMenu.tsx:125
 #: src/components/_user/user/MyAvatar.tsx:35
-#: src/components/_user/user/UserHeader.tsx:159
-#: src/pages/companies.tsx:83
-#: src/pages/country/[countryId]/account.tsx:25
-#: src/pages/market/index.tsx:49
+#: src/components/_user/user/UserHeader.tsx:159 src/pages/companies.tsx:83
+#: src/pages/country/[countryId]/account.tsx:25 src/pages/market/index.tsx:49
 #: src/pages/user/[userId]/account.tsx:20
 #: src/pages/user/[userId]/companies.tsx:46
 #: src/pages/user/[userId]/index.tsx:201
@@ -4126,16 +4112,16 @@ msgstr ""
 
 #: src/utils/translations.tsx:53
 msgid "Iron"
-msgstr ""
+msgstr "لوہا"
 
 #: src/components/_political/party/party.frontConfig.tsx:153
 msgid "Isolationism vs Diplomacy"
-msgstr ""
+msgstr "تنہائی پسندی بمقابلہ سفارت"
 
 #: src/components/_political/party/party.frontConfig.tsx:138
 #: src/components/_political/party/party.frontConfig.tsx:151
 msgid "Isolationist"
-msgstr ""
+msgstr "تفریدی"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:9
 msgid "It only gets better… maybe"
@@ -4155,21 +4141,20 @@ msgstr ""
 
 #: src/components/_user/user/WealthPanel.tsx:49
 msgid "Items"
-msgstr ""
+msgstr "اشیا"
 
 #: src/components/_common/GameRules.tsx:252
 msgid "j. Spam and repeated messages"
 msgstr ""
 
-#: src/pages/companies.tsx:32
-#: src/pages/user/[userId]/companies.tsx:56
+#: src/pages/companies.tsx:32 src/pages/user/[userId]/companies.tsx:56
 msgid "Job"
-msgstr ""
+msgstr "نوکری"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:202
 #: src/components/_economy/workOffer/WageInfoAlert.tsx:42
 msgid "Job market"
-msgstr ""
+msgstr "نوکری بازار"
 
 #: src/pages/company/[companyId]/index.tsx:62
 msgid "Job offer"
@@ -4537,7 +4522,7 @@ msgstr ""
 #: src/components/_user/user/skills.frontConfig.tsx:194
 #: src/components/_user/user/skills.frontConfig.tsx:195
 msgid "Management"
-msgstr ""
+msgstr "انتظام"
 
 #: src/components/_layout/LoadingScreenContent.tsx:21
 msgid "map"
@@ -4866,15 +4851,15 @@ msgstr ""
 #: src/components/_layout/LayoutMenu.tsx:137
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:135
 msgid "MU"
-msgstr ""
+msgstr "ع-د"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2056
 msgid "MU Application Accepted"
-msgstr ""
+msgstr "عسکری دستے پر بھیجی درخواست قبول ہو گئی"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2053
 msgid "MU Application Rejected"
-msgstr ""
+msgstr "عسکری دستے پر بھیجی درخواست مسترد ہو گئی"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2075
 msgid "MU Donation Received"
@@ -4890,11 +4875,11 @@ msgstr ""
 
 #: src/components/_military/battle/BattleSideOrdersModal.tsx:59
 msgid "MU Orders"
-msgstr ""
+msgstr "عسکری دستے کے احکام"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2072
 msgid "MU Ownership Transferred"
-msgstr ""
+msgstr "عسکری دستے کی ملکیت منتقل کر دی گئی"
 
 #. placeholder {0}: data.level
 #: src/components/_political/message/systemMessage.frontConfig.tsx:114
@@ -4907,7 +4892,7 @@ msgstr ""
 
 #: src/components/_military/battle/LootSummaryCard.tsx:122
 msgid "My battle loot"
-msgstr ""
+msgstr "میری جنگی لوٹ"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:247
 msgid "My Bot, Script, etc."
@@ -4915,15 +4900,15 @@ msgstr ""
 
 #: src/pages/user/[userId]/companies.tsx:84
 msgid "My Companies"
-msgstr ""
+msgstr "میری کمپنیاں"
 
 #: src/utils/translations.tsx:110
 msgid "Mysterious Plant"
-msgstr ""
+msgstr "پر اَسرار پودا"
 
 #: src/utils/translations.tsx:198
 msgid "Mythic Boots"
-msgstr ""
+msgstr "اساطیری جوتے"
 
 #: src/utils/translations.tsx:189
 msgid "Mythic Chest"
@@ -4931,11 +4916,11 @@ msgstr ""
 
 #: src/utils/translations.tsx:207
 msgid "Mythic Gloves"
-msgstr ""
+msgstr "اساطیری دستانے"
 
 #: src/utils/translations.tsx:180
 msgid "Mythic Helmet"
-msgstr ""
+msgstr "اساطیری خود"
 
 #: src/utils/translations.tsx:216
 msgid "Mythic Pants"
@@ -4948,15 +4933,15 @@ msgstr ""
 #: src/components/_military/mu/MuFormModal.tsx:109
 #: src/components/_political/party/PartyFormModal.tsx:99
 msgid "Name"
-msgstr ""
+msgstr "نام"
 
 #: src/components/_military/battle/BattleSystem.tsx:798
 msgid "National bounty"
-msgstr ""
+msgstr "قومی فیض"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:56
 msgid "Need a job?"
-msgstr ""
+msgstr "نوکری چاہیے؟"
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:47
 msgid "Negative mercenary reputation"
@@ -4964,21 +4949,21 @@ msgstr ""
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:173
 msgid "Net benefit:"
-msgstr ""
+msgstr "خالص فائدہ:"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:26
 msgid "Never give up!"
-msgstr ""
+msgstr "کبھی ہار مت ماننا!"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:16
 msgid "Never stop gambling"
-msgstr ""
+msgstr "جوا کھیلنا کبھی مت چھوڑنا"
 
 #: src/components/_other/shop/SkinItem.tsx:124
 #: src/components/_other/shop/SkinPackItem.tsx:87
 #: src/components/_social/ArticleList.tsx:161
 msgid "New"
-msgstr ""
+msgstr "نیا"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:122
 msgid "New API Token Created"
@@ -4986,7 +4971,7 @@ msgstr ""
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1968
 msgid "New article"
-msgstr ""
+msgstr "نیا مضمون"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1970
 msgid "New comment"
@@ -5012,7 +4997,7 @@ msgstr ""
 
 #: src/components/_economy/company/MoveCompanyForm.tsx:77
 msgid "New location"
-msgstr ""
+msgstr "نئی جگہ"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionList.tsx:123
 msgid "New Mercenary Auction"
@@ -5020,19 +5005,19 @@ msgstr ""
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2099
 msgid "New message"
-msgstr ""
+msgstr "نیا پیغام"
 
 #: src/components/_military/mu/MuFormModal.tsx:89
 msgid "New military unit"
-msgstr ""
+msgstr "نیا عسکری دستہ"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2059
 msgid "New MU Application"
-msgstr ""
+msgstr "نئی عسکری دستے کی درخواست"
 
 #: src/components/_economy/company/CompanyRenameFormModal.tsx:71
 msgid "New name"
-msgstr ""
+msgstr "نیا نام"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2011
 msgid "New Party Application"
@@ -5040,12 +5025,12 @@ msgstr ""
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2000
 msgid "New Party Leader"
-msgstr ""
+msgstr "نیا بانی جماعت"
 
 #: src/components/_political/event/EventList.tsx:66
 #: src/components/_user/notification/notification.frontConfig.tsx:1983
 msgid "New president"
-msgstr ""
+msgstr "نیا صدر"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2014
 msgid "New referred user"
@@ -5278,8 +5263,7 @@ msgstr ""
 msgid "Not impressive, but not shameful"
 msgstr ""
 
-#: src/pages/notifications.tsx:38
-#: src/pages/user/[userId]/settings.tsx:79
+#: src/pages/notifications.tsx:38 src/pages/user/[userId]/settings.tsx:79
 msgid "Notification preferences"
 msgstr ""
 
@@ -5481,8 +5465,7 @@ msgstr "صلح جو"
 msgid "Packs"
 msgstr ""
 
-#: src/components/_user/UserEquipments.tsx:183
-#: src/utils/translations.tsx:210
+#: src/components/_user/UserEquipments.tsx:183 src/utils/translations.tsx:210
 msgid "Pants"
 msgstr ""
 
@@ -5547,7 +5530,7 @@ msgstr ""
 
 #: src/components/_political/election/election.frontConfig.tsx:33
 msgid "Party Leader election"
-msgstr ""
+msgstr "بانی جماعت کے انتخابات"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:228
 msgid "Party Leader election candidacy is now open in <0/>"
@@ -5758,8 +5741,7 @@ msgstr ""
 msgid "Priority from declaring wars or winning battles is <0>{0} hours</0> instead of 24."
 msgstr ""
 
-#: src/pages/index.tsx:142
-#: src/pages/rules.tsx:36
+#: src/pages/index.tsx:142 src/pages/rules.tsx:36
 msgid "Privacy"
 msgstr "نج"
 
@@ -5801,7 +5783,7 @@ msgstr ""
 #: src/components/_user/user/skills.frontConfig.tsx:104
 #: src/pages/company/[companyId]/index.tsx:49
 msgid "Production"
-msgstr ""
+msgstr "پیداوار"
 
 #: src/components/_economy/company/CompanyProductionBonusTag.tsx:48
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:116
@@ -6085,8 +6067,7 @@ msgstr ""
 #. placeholder {0}: staticGameConfig.items.bread.flatStats?.healthRegenPercent
 #. placeholder {0}: staticGameConfig.items.cookedFish.flatStats?.healthRegenPercent
 #. placeholder {0}: staticGameConfig.items.steak.flatStats?.healthRegenPercent
-#: src/utils/translations.tsx:45
-#: src/utils/translations.tsx:61
+#: src/utils/translations.tsx:45 src/utils/translations.tsx:61
 #: src/utils/translations.tsx:74
 msgid "Regens <0>{0}</0> when consumed"
 msgstr ""
@@ -6175,8 +6156,7 @@ msgstr ""
 msgid "Remove a member from the party council"
 msgstr ""
 
-#: src/pages/market/index.tsx:178
-#: src/pages/market/index.tsx:240
+#: src/pages/market/index.tsx:178 src/pages/market/index.tsx:240
 msgid "Remove all"
 msgstr ""
 
@@ -7094,8 +7074,7 @@ msgstr ""
 msgid "Terminated"
 msgstr ""
 
-#: src/pages/index.tsx:138
-#: src/pages/rules.tsx:32
+#: src/pages/index.tsx:138 src/pages/rules.tsx:32
 msgid "Terms"
 msgstr ""
 
@@ -7412,8 +7391,7 @@ msgstr "کل"
 #: src/components/_economy/itemTrading/TradingOrders.tsx:88
 #: src/components/_economy/work/WorkChart.tsx:199
 #: src/components/_military/mu/MuMemberList.tsx:190
-#: src/components/_user/user/WealthPanel.tsx:28
-#: src/pages/market/index.tsx:139
+#: src/components/_user/user/WealthPanel.tsx:28 src/pages/market/index.tsx:139
 #: src/pages/market/index.tsx:191
 msgid "Total"
 msgstr "کل"
@@ -7500,8 +7478,7 @@ msgid "Transac."
 msgstr "سودا"
 
 #: src/components/_political/country/CountryHeader.tsx:82
-#: src/pages/market/index.tsx:83
-#: src/pages/user/[userId]/index.tsx:230
+#: src/pages/market/index.tsx:83 src/pages/user/[userId]/index.tsx:230
 msgid "Transactions"
 msgstr "سودے"
 
@@ -7675,8 +7652,7 @@ msgstr ""
 msgid "Use your <0>Hunger</0> to eat food and refill your <1>Health</1>. Then get back to fighting!"
 msgstr ""
 
-#: src/utils/translations.tsx:90
-#: src/utils/translations.tsx:96
+#: src/utils/translations.tsx:90 src/utils/translations.tsx:96
 #: src/utils/translations.tsx:101
 msgid "Used for shooting guns. Increases your <0>Attack</0>"
 msgstr ""
@@ -8104,7 +8080,7 @@ msgstr "دوسروں کے لیے کام کرنا شروع میں پیسے کما
 #: src/components/_layout/LayoutOptions.tsx:207
 #: src/components/_user/kits/KitsPopover.tsx:265
 msgid "Worst"
-msgstr ""
+msgstr "بدترین"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:82
 msgid "Wow congratulations! Anyway have you considered buying premium?"
@@ -8156,8 +8132,7 @@ msgstr "آپ پہلے سے کسی اور ملک کے صدر ہیں۔ پہلے ا
 msgid "You are already vice president of another country. Resign first."
 msgstr "آپ پہلے سے کسی اور ملک نائب صدر ہیں۔ پہلے استعفیٰ دیں۔"
 
-#: src/pages/companies.tsx:45
-#: src/pages/user/[userId]/companies.tsx:64
+#: src/pages/companies.tsx:45 src/pages/user/[userId]/companies.tsx:64
 msgid "You are jobless"
 msgstr "آپ بیروزگار ہیں"
 
@@ -8240,11 +8215,11 @@ msgstr ""
 
 #: src/pages/country/[countryId]/citizenship.tsx:48
 msgid "You gonna be automatically approved because the country population is below"
-msgstr "You will be automatically approved because the country population is below"
+msgstr "آپ خودکارانہ طریقے سے منظور ہو جائیں گے کیونکہ ملک کی آبادی اس سے کم ہے"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:93
 msgid "You have a case!"
-msgstr ""
+msgstr "آپ کے پاس صندوق ہے!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1135
 msgid "You have been demoted from commander in <0/> by <1/>"
@@ -8299,7 +8274,7 @@ msgstr ""
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:211
 msgid "You helped translate the game into another language"
-msgstr ""
+msgstr "آپ نے گیم کو ایک اور زبان میں ترجمہ کرنے میں مدد کی"
 
 #. placeholder {0}: staticGameConfig.referral.levelNeededForBadge
 #. placeholder {1}: staticGameConfig.referral.lifeTimeBadgeMoneySharePercent
@@ -8359,7 +8334,7 @@ msgstr ""
 
 #: src/components/_user/notification/notification.frontConfig.tsx:594
 msgid "You sold items."
-msgstr ""
+msgstr "آپ نے اشیا بیچیں۔"
 
 #. placeholder {0}: data.bannerTitle
 #: src/components/_user/notification/notification.frontConfig.tsx:1446
@@ -8385,7 +8360,7 @@ msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:20
 msgid "You very lucky"
-msgstr "آپ بہت خوش قسمت ہیں"
+msgstr "بڑے خوش قسمت"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:104
 msgid "You voted in a major election"
@@ -8402,15 +8377,15 @@ msgstr ""
 #: src/components/_user/notification/notification.frontConfig.tsx:1982
 #: src/components/_user/notification/notification.frontConfig.tsx:1999
 msgid "You were elected"
-msgstr ""
+msgstr "آپ منتخب ہو گئے ہیں"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:59
 msgid "You were elected as a congress member of your country"
-msgstr ""
+msgstr "آپ اپنے ملکے کے کانگریس رکن منتخب ہو گئے ہیں"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:52
 msgid "You were elected as president of your country"
-msgstr ""
+msgstr "آپ اپنے ملک کے صدر منتخب ہو گئے ہیں"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:46
 msgid "You were here at the beginning of War Era"
@@ -8422,7 +8397,7 @@ msgstr ""
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:67
 msgid "You were nominated as vice president of your country"
-msgstr ""
+msgstr "آپ اپنے ملک کے نائب صدر کے لیے نامزد ہوئے تھے"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:21
 msgid "You were so close"
@@ -8451,11 +8426,11 @@ msgstr "آپ نے 100 دفعہ کام کیا"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:220
 msgid "You're all set!"
-msgstr ""
+msgstr "بالکل تیار!"
 
 #: src/components/_user/premium/PremiumCard.tsx:55
 msgid "You're already a supporter <0/>"
-msgstr ""
+msgstr "آپ پہلے سے حامی <0/> ہیں"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:38
 msgid "You're climbing, don't stop now"
@@ -8467,15 +8442,15 @@ msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:49
 msgid "You're literally one case away from greatness"
-msgstr ""
+msgstr "آپ عظمت سے ایک صندوق دور ہیں"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:47
 msgid "You're officially better than 80% of players"
-msgstr ""
+msgstr "آپ باضابطہ طور پر 80٪ کھلاڑیوں سے بہتر ہیں"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:60
 msgid "You're peaking"
-msgstr ""
+msgstr "قسمت چمک رہی آپ کی"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:185
 msgid "You've completed some missions! Let's collect your XP rewards."
@@ -8491,11 +8466,11 @@ msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:96
 msgid "Your account has been automatically reported for cheating"
-msgstr ""
+msgstr "آپ کا کھاتا خودکارانہ طریقہ سے بے ایمانے پر افشائے راز ہو گیا ہے"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:74
 msgid "Your ancestors are proud"
-msgstr ""
+msgstr "تم نے اپنا نام روشن کر دیا"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:366
 #: src/components/_user/notification/notification.frontConfig.tsx:1066
@@ -8525,7 +8500,7 @@ msgstr "آپ کا ملک"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2023
 msgid "Your country is under attack!"
-msgstr ""
+msgstr "آپ کے ملک پر حملہ ہو رہا ہے!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2026
 msgid "Your country launched an attack!"
